@@ -1,0 +1,7 @@
+"Search...","Szukaj...",module,Magento_Catalog
+"Item in Cart", "Produkt w Koszyku",module,Magento_Checkout
+"Items in Cart", "Produkty w Koszyku",module,Magento_Catalog
+"Go to Checkout", "Idź do kasy",module,Magento_Checkout
+"Proceed to Checkout","Przejdź do kasy",module,Magento_Checkout
+"View and edit cart","Wyświetl i edytuj koszyk",theme,frontend/Smartwave/porto
+"View and Edit Cart","Wyświetl i edytuj koszyk",module,Magento_Checkout
