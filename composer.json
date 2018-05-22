@@ -1,5 +1,5 @@
 {
-  "name": "wizzaro/magento2-porto-theme/language-pl_pl",
+  "name": "wizzaro/magento2-porto-theme-language-pl-pl",
   "description": "Polish language extension for Magento 2 Porto Theme",
   "type": "magento2-language",
   "version": "0.9.0",
@@ -17,5 +17,5 @@
       "registration.php"
     ]
   },
-  "extra": {"map": [["*", "wizzaro/magento-porto-theme/language-pl_pl"]]}
+  "extra": {"map": [["*", "wizzaro/magento-porto-theme-language-pl-pl"]]}
 }

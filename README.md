@@ -3,7 +3,7 @@
 ## Install
 
 ```
-composer require wizzaro/magento2-porto-theme/language-pl_pl
+composer require wizzaro/magento2-porto-theme-language-pl-pl
 ```
 
 ## Translations for 'Item in Cart' missing in mini cart hack

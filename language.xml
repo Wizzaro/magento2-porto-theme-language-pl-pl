@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>pl_PL</code>
-    <vendor>wizzaro_magento2_porto_theme</vendor>
+    <vendor>wizzaro_magento2_porto_theme_language</vendor>
     <package>pl_pl</package>
 </language>
