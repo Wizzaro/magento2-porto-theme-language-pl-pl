@@ -1,3 +1,6 @@
+"Buy now","Kup teraz"
+"check delivery options","sprawdź opcje dostawy"
+"Shipping from","Wysyłka od"
 "Search...","Szukaj...",module,Magento_Catalog
 "Item in Cart", "Produkt w Koszyku",module,Magento_Checkout
 "Items in Cart", "Produkty w Koszyku",module,Magento_Catalog
@@ -5,3 +8,7 @@
 "Proceed to Checkout","Przejdź do kasy",module,Magento_Checkout
 "View and edit cart","Wyświetl i edytuj koszyk",theme,frontend/Smartwave/porto
 "View and Edit Cart","Wyświetl i edytuj koszyk",module,Magento_Checkout
+"Quickview","Szybki podgląd",module,WeltPixel
+"Go To Product","Idź do produktu",module,WeltPixel
+"Delivery Time","Czas dostawy"
+"Delivery Information","Informacje o dostawie"
